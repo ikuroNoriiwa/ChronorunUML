@@ -19,4 +19,6 @@ This project is associated to the [ChronoRun Project](https://github.com/ikuroNo
 
 *In 1997 UML was adopted as a standard by the Object Management Group (OMG), and has been managed by this organization ever since. In 2005 UML was also published by the International Organization for Standardization (ISO) as an approved ISO standard. Since then the standard has been periodically revised to cover the latest revision of UML*   - [WIKIPEDIA](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 
+____
+
 ![Use Case Diagram !](https://raw.githubusercontent.com/ikuroNoriiwa/ChronorunUML/master/diagramme/Use%20Case/fr.chronorun.diagram.UseCaseGlobal.png)
